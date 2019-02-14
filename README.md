@@ -2,6 +2,8 @@
 
 A alfred workflow plug-in.
 
+![](image.gif)
+
 # How to use
 
 1. Download `HexConversion.alfredworkflow` in `release`。
